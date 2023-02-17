@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cadamini', // Usually your GitHub org/user name.
   projectName: 'docusaurus-test', // Usually your repo name.
-  railingSlash: false,
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
