@@ -12,6 +12,8 @@ related_articles:
     filepath: features/monitoring/dashboards/dashboards-examples.md
 ---
 
+I can conveniently use <highlight color="#25c2a0">Docusaurus green</highlight> everywhere!
+
 In this article, you will learn:
 
 - how to change the date range.
@@ -53,7 +55,7 @@ Hide other time series by clicking _![Show and hide graphs](/img/common/table.pn
 1. Click the **context menu icon** next to the name of the currently selected dashboard.
 2. Click **Edit** to access the edit mode for the dashboard.
 3. Hover over the **time series name** in the legend, next click the **pencil icon**.
-4. In the _Customize graph_ dialog window, change the time series properties. You can: 
+4. In the _Customize graph_ dialog window, change the time series properties. You can:
    - edit the **Name** shown in the legend.
    - change the diagram **Type**. Choose from **Step** or **Histogram** (bar chart).
    - select another predefined **Color**.
